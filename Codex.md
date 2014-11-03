@@ -11,7 +11,8 @@ Things I’d like to have primed in my brain every morning. This is stuff curren
 
 1. **Cultivate quality time:** With myself, with other people, and with my interests.
 2. **Look at what's uneasy:** Don't avoid the unresolved, unwanted, conflicted things that would benefit from attention. 
-3. Review/update this list
+3. **Contemplate my mortality:** Remember that every minute here is a gift; embrace it and don't wast the time you have.
+4. Review/update this list
 
 ## Review Every Month 
 Things I’d like to check in on the 1st of every month.
