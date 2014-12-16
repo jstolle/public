@@ -3,17 +3,32 @@
 ## How to play
 
 1. **Every day:** In the morning, scroll down to Review Every Day
-2. **Every month:** On the 1st of every month, scroll down to Review Every Month
+2. **Every month:** On the 1st of every month, scroll down to Review Every
+Month
 3. **Every year:** On your birthday, scroll down to Review Every Year
 
 ## Review Every Day
-Things I’d like to have primed in my brain every morning. This is stuff currently churning in the front of my brain, which probably has high turnover but which also has a good chance of getting somewhere new.
+Things I’d like to have primed in my brain every morning. This is stuff
+currently churning in the front of my brain, which probably has high turnover
+but which also has a good chance of getting somewhere new.
 
-1. **Cultivate quality time:** With myself, with other people, and with my interests.
-2. **Look at what's uneasy:** Don't avoid the unresolved, unwanted, conflicted things that would benefit from attention. 
-3. **Contemplate my mortality:** Remember that every minute here is a gift; embrace it and don't wast the time you have.
-4. **Do something foolish, something creative, and something generous:** Do this every day, per Benjamin Graham.
-5. Review/update this list
+1. **Work Hard:** Put in 100%.  Always.
+2. **Step Up:** Take personal responsibility; realize you're a critical part
+of the solution; accept the consequences of your actions.
+3. **Don't Waste:** "Use it up, wear it out, make it do, or do without;"
+"stuff" is not the answer, nor the key to a happy life.
+4. **Love Well:** Love your neighbor as well as you love yourself; your word
+is your bond.
+5. **Think Bigger:** Believe in something bigger than yourself -- faith,
+freedom, and opportunity; be willing to fight for it, to die for it; what can
+you do for the cause; be willing to embrace hardship for the sake of a greater cause.
+6. **Look at what's uneasy:** Don't avoid the unresolved, unwanted, conflicted
+things that would benefit from attention.
+7. **Contemplate my mortality:** Remember that every minute here is a gift;
+embrace it and don't waste the time you have.
+8. **Do something foolish, something creative, and something generous:** Do
+this every day, per Benjamin Graham.
+9. Review/update this list
 
 ## Review Every Month 
 Things I’d like to check in on the 1st of every month.
@@ -104,7 +119,15 @@ tremendous value in it for some people.
 
 ### 2014: ++----+----
 
-##### November 1st 2014:
+##### December 1st 2014:
+
+*Summary:* Kayla was in Weatherford for one of her externships and was able to
+ spend some time over a few weekends with us.  Thanksgiving was a small affair
+ with just Amanda and me.
+ 
+*Weight:* 220
+
+*New goal:* Write a single program/script for personal use.
 
 # Yearly Reports
 
