@@ -37,7 +37,7 @@ Things I’d like to check in on the 1st of every month.
 2. Review the Beliefs
 3. Review the Personal Canon
 4. Write a new Monthly Report and share
-5. Review/update this list
+6. Review/update this list
 
 ## Review Every Year
 Things I've learned and want to remind myself of every year on my birthday (May 28).
@@ -48,7 +48,7 @@ Things I've learned and want to remind myself of every year on my birthday (May 
 5. Review/update this list
 
 ## Lexicon
-This is an list of ideas that have gotten hopelessly stuck in my brain. 
+This is an list of ideas that have gotten hopelessly stuck in my brain.
 
 ### Separation of Life Philosophy and Religion
 I do not recall exactly how I came to learn about
@@ -66,6 +66,9 @@ easily applied to my current life.  I am also teetering on the precipice of
 declaring my search for faith at an end after approximately thirty-four years,
 so leaning on a religion-based life philosophy does not make sense for me.
 
+### The Ability to Rise Above One's Lot in Life
+This has been a belief of mine for a long time: one is able to rise above
+whatever 
 
 ## Beliefs
 
@@ -130,10 +133,9 @@ Mastermind: How To Think Like Sherlock Holmes, which was a wonderful book.
 *Old goal status:* Complete miss.  I did not make the time to finish the
 podcast downloader, which is a complete failure on my part.
 
-*Weight:* 226
+*Weight:* 226 (+6)
 
-*New goal:* Complete the podcast downloader and begin and finish the media
-asset tracker.  Also, write a review of Mastermind.
+*New goal:* Write book reports (reviews) on books I read.
 
 ### 2014: ++----+----
 
