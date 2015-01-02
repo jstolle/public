@@ -117,6 +117,24 @@ tremendous value in it for some people.
 
 # Monthly Reports
 
+### 2015: ++----+----
+
+##### January 1st 2015:
+
+*Summary:* Spent six weeks in Surrey, British Columbia for work.  It was a
+good trip, but it killed my hip and wrecked my diet.  I am still recovering
+from the dietary wreckage, and I haven't been helping myself on that front in
+the face of Christmas (and all of it bread-laden goodness/evil).  I read
+Mastermind: How To Think Like Sherlock Holmes, which was a wonderful book. 
+
+*Old goal status:* Complete miss.  I did not make the time to finish the
+podcast downloader, which is a complete failure on my part.
+
+*Weight:* 226
+
+*New goal:* Complete the podcast downloader and begin and finish the media
+asset tracker.  Also, write a review of Mastermind.
+
 ### 2014: ++----+----
 
 ##### December 1st 2014:
